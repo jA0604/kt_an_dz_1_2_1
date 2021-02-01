@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "kt_an_dz_1_2_1"
