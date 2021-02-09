@@ -10,10 +10,8 @@ class PostRepository : RepoPost {
         get() = liveData
 
     override fun like() {
-        TODO("Not yet implemented")
     }
 
     override fun share() {
-        TODO("Not yet implemented")
     }
 }
